@@ -1,0 +1,41 @@
+
+h1{
+        color:rgb(60, 60, 125);
+        text-decoration: underline;
+        font-family: 'Times New Roman', Times, serif;
+        }
+h2, h3, h4, p{ 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#nav, nav{
+    background-color: rgb(215, 190, 190);
+    color: fuchsia;
+    padding: 10px;
+    text-align: center;
+}
+#nav a, nav a{
+    color: rgb(21, 53, 80);
+    text-decoration: none;
+    font-size:large;
+    margin-right: 10px;
+    padding: 10px;
+}
+#nav a:hover{
+    background-color: antiquewhite;
+}
+nav a:hover{
+    background-color: antiquewhite;
+}
+#content, content{
+    width: 80%;
+    margin: 0 auto;
+    text-align: justify;
+}
+
+#footer, footer{
+    background-color: rgb(215, 190, 190);
+    color: rgb(21, 53, 80);
+    min-height: 50px;
+    text-decoration: overline;
+    text-align: center;
+}
